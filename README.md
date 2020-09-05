@@ -11,3 +11,18 @@ A menu system that performs the following tasks:
 10) Display the different firewall zones
 11) Display the config for each of the firewall zones
 12) Reboot the router
+
+![](Images/Whiptail_Menu_Page_02.png)
+![](Images/Whiptail_Menu_Page_03.png)
+![](Images/Whiptail_Menu_Page_04.png)
+![](Images/Whiptail_Menu_Page_05.png)
+![](Images/Whiptail_Menu_Page_06.png)
+![](Images/Whiptail_Menu_Page_07.png)
+![](Images/Whiptail_Menu_Page_08.png)
+![](Images/Whiptail_Menu_Page_09.png)
+![](Images/Whiptail_Menu_Page_10.png)
+![](Images/Whiptail_Menu_Page_11.png)
+![](Images/Whiptail_Menu_Page_12.png)
+![](Images/Whiptail_Menu_Page_13.png)
+![](Images/Whiptail_Menu_Page_14.png)
+![](Images/Whiptail_Menu_Page_15.png)
